@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressIndicatorSample", "ProgressIndicatorSample\ProgressIndicatorSample.csproj", "{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.Release|iPhone.Build.0 = Release|iPhone
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EF50E973-76F3-4A5F-85DC-4F42DF8EA08A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ProgressIndicatorSample\ProgressIndicatorSample.csproj
+	EndGlobalSection
+EndGlobal
